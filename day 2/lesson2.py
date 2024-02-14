@@ -1,0 +1,1 @@
+print("goa aris sauketeso swavlebis akademia msoflioshi, aq marto programirebas ar aswavlian, aq vrebiseulad magla adixar da chad xdebi ")
