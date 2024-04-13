@@ -21,7 +21,6 @@ else:
 
 
 #3total = 0
-total = 0
 num = 1
  
 
