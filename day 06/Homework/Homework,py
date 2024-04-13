@@ -1,3 +1,4 @@
+#1
 number1 = input("first number")
 number2 = input("second number")
 
@@ -5,3 +6,13 @@ print(int(number1) + int(number2))
 print(int(number1) - int(number2))
 print(int(number1) * int(number2))
 print(int(number1) / int(number2))
+
+
+
+
+#2
+first_name = input("enter your first name: ")
+last_name = input("enter your last name: ")
+age = input("enter your age: ")
+
+print("Hello, my name is " + first_name + " " + last_name + " and I am " + age + " years old.")
